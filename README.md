@@ -1,6 +1,6 @@
 ### Hi there, I'm Saleem 👋
 
-I'm polyglot developer. 
+I'm a polyglot developer. 
 
 I build tools and workflows for the AEC industry.
 
